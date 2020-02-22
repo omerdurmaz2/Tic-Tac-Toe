@@ -1,0 +1,10 @@
+C:\Users\omerd\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.exe.config
+C:\Users\omerd\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.exe
+C:\Users\omerd\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.pdb
+C:\Users\omerd\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.Form1.resources
+C:\Users\omerd\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.Form2.resources
+C:\Users\omerd\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.Form3.resources
+C:\Users\omerd\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\omerd\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.csproj.GenerateResource.cache
+C:\Users\omerd\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.exe
+C:\Users\omerd\source\repos\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.pdb
