@@ -362,7 +362,6 @@ namespace Tic_Tac_Toe
             button7.Enabled = false;
             button8.Enabled = false;
             button9.Enabled = false;
-
         }
 
         private void button1_Click(object sender, EventArgs e)
